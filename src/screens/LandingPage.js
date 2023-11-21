@@ -74,6 +74,8 @@ function LandingPage() {
             Philippines. Join us as we embark on this virtual adventure
             together!
           </p>
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/auxF6A7WiAI?si=m7hQ3F3rbVYVJAfz" title="YouTube video player"
+              frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         </div>
       </div>
       <Footer />
