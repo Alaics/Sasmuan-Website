@@ -50,7 +50,7 @@ function LandingPage() {
               </h3>
               <p class="text-gray-600">
                 Indulge in the flavors of Pampanga with Sasmuan's delectable
-                cuisine. From savory sisig to mouthwatering halo-halo, your
+                cuisine. From sweet treats, tamalis, toyota, and crabpaste, your
                 taste buds are in for a treat.
               </p>
             </div>
